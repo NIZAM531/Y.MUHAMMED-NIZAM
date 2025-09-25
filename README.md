@@ -1,7 +1,7 @@
 # Y.MUHAMMED-NIZAM
 
 # 💫 About Me:
-## 👋 About Me  <br><br>🌟 Aspiring **Data Analyst** with a passion for turning data into insights  <br>💻 Skilled in **Python**, **C++**, **SQL**, and exploring **HTML** for web projects  <br>📊 Interested in **Data Analytics, Visualization, and APIs**  <br>🚀 Building projects step by step to grow into a professional Data Analyst  <br>
+## 🌟 Aspiring **Data Analyst** with a passion for turning data into insights  <br>💻 Skilled in **Python**, **C++**, **SQL**, and exploring **HTML** for web projects  <br>📊 Interested in **Data Analytics, Visualization, and APIs**  <br>🚀 Building projects step by step to grow into a professional Data Analyst  <br>
 
 
 ## 🌐 Socials:
