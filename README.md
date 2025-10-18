@@ -4,6 +4,8 @@
 # 💫 About Me:
 ## 🌟 Aspiring **Data Analyst** with a passion for turning data into insights  <br>💻 Skilled in **Python**, **C++**, **SQL**, and exploring **HTML** for web projects  <br>📊 Interested in **Data Analytics, Visualization, and APIs**  <br>🚀 Building projects step by step to grow into a professional Data Analyst  <br>
 
+![My Badges](https://raw.githubusercontent.com/NIZAM531/Y.MUHAMMED-NIZAM/main/badges.svg)
+
 ## 🏅 Certifications & Badges
 
 <a href="https://www.credly.com/users/y-muhammed-nizam" target="_blank">
