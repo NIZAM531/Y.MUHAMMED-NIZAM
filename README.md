@@ -1,4 +1,6 @@
-# Y.MUHAMMED-NIZAM
+# Y.MUHAMMED-NIZAM  
+<img alt="Y Muhammed Nizam Banner" src="https://raw.githubusercontent.com/y-muhammed-nizam/y-muhammed-nizam/main/banner.svg" width="100%">
+
 
 # 💫 About Me:
 ## 🌟 Aspiring **Data Analyst** with a passion for turning data into insights  <br>💻 Skilled in **Python**, **C++**, **SQL**, and exploring **HTML** for web projects  <br>📊 Interested in **Data Analytics, Visualization, and APIs**  <br>🚀 Building projects step by step to grow into a professional Data Analyst  <br>
