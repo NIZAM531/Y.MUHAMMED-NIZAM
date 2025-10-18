@@ -1,5 +1,5 @@
-# Y.MUHAMMED-NIZAM  
-<img alt="Y Muhammed Nizam Banner" src="https://raw.githubusercontent.com/y-muhammed-nizam/y-muhammed-nizam/main/banner.svg" width="100%">
+
+<img alt="Y Muhammed Nizam Banner" src="https://raw.githubusercontent.com/NIZAM531/Y.MUHAMMED-NIZAM/main/banner.svg" width="100%">
 
 
 # 💫 About Me:
