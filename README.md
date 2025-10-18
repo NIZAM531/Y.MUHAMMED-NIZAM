@@ -1,7 +1,24 @@
 
 <img src="https://raw.githubusercontent.com/NIZAM531/Y.MUHAMMED-NIZAM/main/banner.svg" width="100%">
-   💫 About Me:
-## 🌟 Aspiring **Data Analyst** with a passion for turning data into insights  <br>💻 Skilled in **Python**, **C++**, **SQL**, and exploring **HTML** for web projects  <br>📊 Interested in **Data Analytics, Visualization, and APIs**  <br>🚀 Building projects step by step to grow into a professional Data Analyst  <br>
+ 
+  # 💫 About Me:
+  
+## 🌟 Aspiring Data Analyst with a passion for turning data into insights  <br>
+💻 Skilled and exploring in  
+<div class="tech-logo">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="80" height="80" alt="HTML5 Logo">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="80" height="80" alt="Python Logo">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="80" height="80" alt="C++ Logo">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="80" height="80" alt="SQL Logo">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="80" height="80" alt="Power BI Logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" width="80" height="80" alt="Ms Excel logo">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Microsoft_PowerPoint_2013-2019_logo.svg" width="80" height="80" alt="Ms powerpoint">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Microsoft_Word_2013-2019_logo.svg" width="80" height="80" alt="Ms Word">
+ <img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Canva_Logo.svg" width="200" height="120" alt="Canva">
+</div> 
+
+
+  <br>📊 Interested in **Data Analytics, Visualization, and APIs**  <br>🚀 Building projects step by step to grow into a professional Data Analyst  <br>
 
 ## 🏅 Certifications & Badges
 
