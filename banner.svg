@@ -10,63 +10,49 @@
       </stop>
     </linearGradient>
 
-    <!-- Glow filters -->
-    <filter id="glowGreen" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-
-    <filter id="glowBlue" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
-      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-
-    <filter id="glowPink" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="5" result="coloredBlur"/>
-      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
+    <!-- Font styles for cycling -->
+    <style>
+      @keyframes fontCycle {
+        0% { font-family: 'Poppins'; }
+        25% { font-family: 'Roboto'; }
+        50% { font-family: 'Courier New'; }
+        75% { font-family: 'Georgia'; }
+        100% { font-family: 'Poppins'; }
+      }
+      @keyframes flicker {
+        0%, 100% { opacity: 1; }
+        40%, 60% { opacity: 0.4; }
+      }
+      @keyframes glow {
+        0%, 100% { filter: drop-shadow(0 0 8px #64FFDA); }
+        50% { filter: drop-shadow(0 0 16px #64FFDA); }
+      }
+    </style>
   </defs>
 
   <!-- Background -->
-  <rect width="800" height="200" rx="20" fill="url(#grad)">
-    <animate attributeName="opacity" values="1;0.95;1" dur="6s" repeatCount="indefinite" />
-  </rect>
+  <rect width="800" height="200" rx="20" fill="url(#grad)" />
 
-  <!-- Dynamic Name -->
-  <text x="50%" y="50%" text-anchor="middle" alignment-baseline="middle"
-        font-size="48" opacity="1" id="name">
+  <!-- Profile Image (round with glow) -->
+  <circle cx="100" cy="100" r="55" fill="url(#grad)">
+    <animate attributeName="r" values="55;58;55" dur="4s" repeatCount="indefinite" />
+  </circle>
+  <clipPath id="avatarClip">
+    <circle cx="100" cy="100" r="55" />
+  </clipPath>
+  <image href="https://raw.githubusercontent.com/NIZAM531/Y.MUHAMMED-NIZAM/main/PROFILE.jpeg"
+         x="45" y="45" width="110" height="110" clip-path="url(#avatarClip)">
+    <animate attributeName="opacity" values="0.9;1;0.8;1" dur="5s" repeatCount="indefinite" />
+  </image>
+
+  <!-- Your Name -->
+  <text x="55%" y="50%" text-anchor="middle" fill="#64FFDA" font-size="46" style="animation: flicker 3s infinite, fontCycle 12s infinite, glow 4s infinite;">
     Y MUHAMMED NIZAM
-
-    <!-- Color loop -->
-    <animate attributeName="fill" values="#64FFDA;#00BFFF;#FF69B4;#64FFDA" dur="12s" repeatCount="indefinite"/>
-    <!-- Font loop -->
-    <animate attributeName="font-family"
-             values="Segoe UI, sans-serif;Roboto, sans-serif;Courier New, monospace;Georgia, serif;Poppins, sans-serif"
-             dur="12s" repeatCount="indefinite"/>
-    <!-- Glow loop -->
-    <set attributeName="filter" to="url(#glowGreen)" begin="0s;12s" dur="4s"/>
-    <set attributeName="filter" to="url(#glowBlue)" begin="4s" dur="4s"/>
-    <set attributeName="filter" to="url(#glowPink)" begin="8s" dur="4s"/>
-    <!-- Subtle flicker -->
-    <animate attributeName="opacity" values="1;0.85;1;0.9;1" dur="3s" repeatCount="indefinite"/>
   </text>
 
-  <!-- Dynamic Tagline -->
-  <text x="50%" y="70%" text-anchor="middle" alignment-baseline="middle"
-        font-size="20" opacity="1">
+  <!-- Subtitle -->
+  <text x="55%" y="70%" text-anchor="middle" fill="#000000" font-size="20" font-family="Segoe UI, sans-serif">
     Data Analytics | Machine Learning | Business Intelligence
-
-    <!-- Font loop (same rhythm as name) -->
-    <animate attributeName="font-family"
-             values="Segoe UI, sans-serif;Roboto, sans-serif;Courier New, monospace;Georgia, serif;Poppins, sans-serif"
-             dur="12s" repeatCount="indefinite"/>
-    <!-- Color loop -->
-    <animate attributeName="fill"
-             values="#000000;#1E90FF;#C71585;#222222;#000000"
-             dur="12s" repeatCount="indefinite"/>
-    <!-- Fade pulse -->
-    <animate attributeName="opacity"
-             values="1;0.75;1;0.85;1"
-             dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.7;1" dur="6s" repeatCount="indefinite" />
   </text>
 </svg>
