@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="100%" height="auto">
+  <style>
+    .badge-grid {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
+    }
+    .badge {
+      width: 110px;
+      height: 110px;
+      border-radius: 15px;
+      overflow: hidden;
+      position: relative;
+      animation: shine 8s infinite;
+    }
+    .badge:nth-child(2) { animation-delay: 1s; }
+    .badge:nth-child(3) { animation-delay: 2s; }
+    .badge:nth-child(4) { animation-delay: 3s; }
+    .badge:nth-child(5) { animation-delay: 4s; }
+    .badge:nth-child(6) { animation-delay: 5s; }
+    .badge:nth-child(7) { animation-delay: 6s; }
+    .badge:nth-child(8) { animation-delay: 7s; }
+    .badge:nth-child(9) { animation-delay: 8s; }
+
+    .badge img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      border-radius: 15px;
+    }
+
+    .shine {
+      position: absolute;
+      top: 0;
+      left: -150%;
+      width: 50%;
+      height: 100%;
+      background: linear-gradient(120deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0.8) 50%, rgba(255,255,255,0) 100%);
+      transform: skewX(-20deg);
+      animation: shine-move 2s ease-in-out infinite;
+    }
+
+    @keyframes shine-move {
+      0% { left: -150%; }
+      60% { left: 150%; }
+      100% { left: 150%; }
+    }
+
+    @keyframes shine {
+      0%, 80%, 100% { opacity: 1; }
+    }
+  </style>
+
+  <foreignObject x="0" y="0" width="900" height="400">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="badge-grid">
+
+      <a href="https://www.credly.com/users/y-muhammed-nizam" target="_blank" class="badge">
+        <img src="https://images.credly.com/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png" alt="Data Fundamentals"/>
+        <div class="shine"></div>
+      </a>
+
+      <a href="https://community.alteryx.com/t5/user/viewprofilepage/user-id/776095" target="_blank" class="badge">
+        <img src="https://community.alteryx.com/html/@B99A4A585FDC60E7FB7345C0CD250730/badge_icons/Certification_AlteryxFoundation.png" alt="Alteryx Foundation Certified"/>
+        <div class="shine"></div>
+      </a>
+
+      <a href="https://www.credly.com/users/y-muhammed-nizam" target="_blank" class="badge">
+        <img src="https://images.credly.com/images/47fe1115-7cab-42ca-9c87-5cd0c05006aa/converted20251017-29-eh1ved.png" alt="Create visual calculations in Power BI Desktop"/>
+        <div class="shine"></div>
+      </a>
+
+      <a href="https://www.credly.com/users/y-muhammed-nizam" target="_blank" class="badge">
+        <img src="https://images.credly.com/images/ada23a37-8e60-4a29-ba67-b3038843aba6/converted20251017-31-6dmjex.png" alt="Introduction to prompt engineering with GitHub Copilot"/>
+        <div class="shine"></div>
+      </a>
+
+      <a href="https://www.credly.com/users/y-muhammed-nizam" target="_blank" class="badge">
+        <img src="https://images.credly.com/images/c6aa89f9-6efe-496c-b2a2-7b674a660f6a/converted20251017-32-nypoag.png" alt="Get started with web development using Visual Studio Code"/>
+        <div class="shine"></div>
+      </a>
+
+      <a href="https://www.credly.com/users/y-muhammed-nizam" target="_blank" class="badge">
+        <img src="https://images.credly.com/images/02f0abc9-1348-4306-b05c-9f7be9b8b813/converted20251017-31-hzynvb.png" alt="Write DAX formulas for semantic models"/>
+        <div class="shine"></div>
+      </a>
+
+      <a href="https://www.credly.com/users/y-muhammed-nizam" target="_blank" class="badge">
+        <img src="https://images.credly.com/images/7ec00d86-9973-4329-82cb-82e3992865fd/converted20251017-32-l8pzus.png" alt="Choose a Power BI model framework"/>
+        <div class="shine"></div>
+      </a>
+
+      <a href="https://www.credly.com/users/y-muhammed-nizam" target="_blank" class="badge">
+        <img src="https://images.credly.com/images/78b4433b-09e1-4981-b43d-7595ae59457e/converted20251017-30-7myp0d.png" alt="Get data in Power BI"/>
+        <div class="shine"></div>
+      </a>
+
+      <a href="https://www.credly.com/users/y-muhammed-nizam" target="_blank" class="badge">
+        <img src="https://images.credly.com/images/f8effdad-0e9d-4c18-9a96-6a53dff2e4c2/converted20251017-32-9k598d.png" alt="Clean, transform, and load data in Power BI"/>
+        <div class="shine"></div>
+      </a>
+
+      <a href="https://www.credly.com/users/y-muhammed-nizam" target="_blank" class="badge">
+        <img src="https://images.credly.com/images/04734713-f484-47b1-a0f8-2cd4b49594f5/converted20251017-31-qqp6t8.png" alt="Get started building with Power BI"/>
+        <div class="shine"></div>
+      </a>
+
+    </div>
+  </foreignObject>
+</svg>
