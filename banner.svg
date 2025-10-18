@@ -3,48 +3,70 @@
     <!-- Animated gradient background -->
     <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0A192F">
-        <animate attributeName="stop-color" values="#0A192F;#112240;#0A192F" dur="6s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#0A192F;#112240;#0A192F" dur="8s" repeatCount="indefinite" />
       </stop>
       <stop offset="100%" stop-color="#64FFDA">
-        <animate attributeName="stop-color" values="#64FFDA;#48D1CC;#64FFDA" dur="6s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#64FFDA;#48D1CC;#64FFDA" dur="8s" repeatCount="indefinite" />
       </stop>
     </linearGradient>
 
-    <!-- Glow effect -->
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur" />
-      <feMerge>
-        <feMergeNode in="coloredBlur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
+    <!-- Glow filters -->
+    <filter id="glowGreen" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <filter id="glowBlue" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <filter id="glowPink" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
 
   <!-- Background -->
   <rect width="800" height="200" rx="20" fill="url(#grad)">
-    <!-- subtle breathing opacity effect -->
-    <animate attributeName="opacity" values="1;0.95;1" dur="4s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="1;0.95;1" dur="6s" repeatCount="indefinite" />
   </rect>
 
-  <!-- Main Name with Glow + Constant Flicker -->
-  <text x="50%" y="50%" fill="#64FFDA" font-size="48" text-anchor="middle"
-        alignment-baseline="middle" font-family="Segoe UI, Roboto, sans-serif"
-        filter="url(#glow)" opacity="1">
+  <!-- Dynamic Name -->
+  <text x="50%" y="50%" text-anchor="middle" alignment-baseline="middle"
+        font-size="48" opacity="1" id="name">
     Y MUHAMMED NIZAM
-    <!-- Gentle flicker loop -->
-    <animate attributeName="opacity"
-             values="1;0.8;1;0.9;1;0.7;1"
-             dur="5s"
-             repeatCount="indefinite" />
+
+    <!-- Color loop -->
+    <animate attributeName="fill" values="#64FFDA;#00BFFF;#FF69B4;#64FFDA" dur="12s" repeatCount="indefinite"/>
+    <!-- Font loop -->
+    <animate attributeName="font-family"
+             values="Segoe UI, sans-serif;Roboto, sans-serif;Courier New, monospace;Georgia, serif;Poppins, sans-serif"
+             dur="12s" repeatCount="indefinite"/>
+    <!-- Glow loop -->
+    <set attributeName="filter" to="url(#glowGreen)" begin="0s;12s" dur="4s"/>
+    <set attributeName="filter" to="url(#glowBlue)" begin="4s" dur="4s"/>
+    <set attributeName="filter" to="url(#glowPink)" begin="8s" dur="4s"/>
+    <!-- Subtle flicker -->
+    <animate attributeName="opacity" values="1;0.85;1;0.9;1" dur="3s" repeatCount="indefinite"/>
   </text>
 
-  <!-- Subtitle with Gentle Pulse -->
-  <text x="50%" y="70%" fill="#000000" font-size="20" text-anchor="middle"
-        alignment-baseline="middle" font-family="Segoe UI, Roboto, sans-serif" opacity="1">
+  <!-- Dynamic Tagline -->
+  <text x="50%" y="70%" text-anchor="middle" alignment-baseline="middle"
+        font-size="20" opacity="1">
     Data Analytics | Machine Learning | Business Intelligence
+
+    <!-- Font loop (same rhythm as name) -->
+    <animate attributeName="font-family"
+             values="Segoe UI, sans-serif;Roboto, sans-serif;Courier New, monospace;Georgia, serif;Poppins, sans-serif"
+             dur="12s" repeatCount="indefinite"/>
+    <!-- Color loop -->
+    <animate attributeName="fill"
+             values="#000000;#1E90FF;#C71585;#222222;#000000"
+             dur="12s" repeatCount="indefinite"/>
+    <!-- Fade pulse -->
     <animate attributeName="opacity"
-             values="1;0.7;1;0.9;1"
-             dur="6s"
-             repeatCount="indefinite" />
+             values="1;0.75;1;0.85;1"
+             dur="6s" repeatCount="indefinite"/>
   </text>
 </svg>
