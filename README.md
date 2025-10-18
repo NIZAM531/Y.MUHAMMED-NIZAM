@@ -1,4 +1,6 @@
 
+<a href=https://raw.githubusercontent.com/NIZAM531/Y.MUHAMMED-NIZAM/main/PROFILE.jpeg>
+ 
 <img alt="Y Muhammed Nizam Banner" src="https://raw.githubusercontent.com/NIZAM531/Y.MUHAMMED-NIZAM/main/banner.svg" width="100%">
 
 
