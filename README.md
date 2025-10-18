@@ -1,5 +1,16 @@
 
 <img src="https://raw.githubusercontent.com/NIZAM531/Y.MUHAMMED-NIZAM/main/banner.svg" width="100%">
+  <!-- Profile Image (round with glow) -->
+  <circle cx="100" cy="100" r="55" fill="url(#grad)">
+    <animate attributeName="r" values="55;58;55" dur="4s" repeatCount="indefinite" />
+  </circle>
+  <clipPath id="avatarClip">
+    <circle cx="100" cy="100" r="55" />
+  </clipPath>
+  <image href="https://github.com/NIZAM531/Y.MUHAMMED-NIZAM/blob/main/PROFILE.jpeg"
+         x="45" y="45" width="110" height="110" clip-path="url(#avatarClip)">
+    <animate attributeName="opacity" values="0.9;1;0.8;1" dur="5s" repeatCount="indefinite" />
+  </image>
 
 
 # 💫 About Me:
