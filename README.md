@@ -15,7 +15,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Microsoft_PowerPoint_2013-2019_logo.svg" width="80" height="80" alt="Ms powerpoint">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Microsoft_Word_2013-2019_logo.svg" width="80" height="80" alt="Ms Word">
  <img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Canva_Logo.svg" width="200" height="120" alt="Canva">
- <img src= "https://images.credly.com/size/110x110/images/3db87885-fc38-45ae-875e-fd40443b0044/image.png" width="80" height="80" alt="data essential">
+
 </div> 
 
 
@@ -27,6 +27,8 @@
 <img src="https://images.credly.com/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png" alt="Data Fundamentals" class="EarnedBadgeCardstyles__ImageContainer-fredly__sc-gsqjwh-0 dDMlBy"width="110" height="110"></a>
  <a href="https://community.alteryx.com/t5/user/viewprofilepage/user-id/776095 target="_blank">
  <img title="Alteryx Foundation Certified" alt="Alteryx Foundation Certified" tabindex="0" id="display" src="https://community.alteryx.com/html/@B99A4A585FDC60E7FB7345C0CD250730/badge_icons/Certification_AlteryxFoundation.png" width="115" height="115">
+  <img src="https://images.credly.com/images/5b32fd03-3768-4a68-a825-0a79a510b3e0/blob" alt="data.world Foundations" class="EarnedBadgeCardstyles__ImageContainer-fredly__sc-gsqjwh-0 dDMlBy" width="115" height="115">
+   <img src= "https://images.credly.com/size/110x110/images/3db87885-fc38-45ae-875e-fd40443b0044/image.png" width="115" height="115" alt="data essential">
 </a>
 
 <a href="https://www.credly.com/users/y-muhammed-nizam" target="_blank">
