@@ -15,6 +15,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Microsoft_PowerPoint_2013-2019_logo.svg" width="80" height="80" alt="Ms powerpoint">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Microsoft_Word_2013-2019_logo.svg" width="80" height="80" alt="Ms Word">
  <img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Canva_Logo.svg" width="200" height="120" alt="Canva">
+ <img src= "https://images.credly.com/size/110x110/images/3db87885-fc38-45ae-875e-fd40443b0044/image.png" width="80" height="80" alt="data essential">
 </div> 
 
 
