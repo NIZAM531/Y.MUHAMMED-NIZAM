@@ -1,7 +1,9 @@
 
 <img src="https://raw.githubusercontent.com/NIZAM531/Y.MUHAMMED-NIZAM/main/banner.svg" width="100%">
  
-  # 💫 About Me:
+  # 💫 About Me: 
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/y-muhammed-nizam-analyst)
+
   
 ## 🌟 Aspiring Data Analyst with a passion for turning data into insights  <br>
 💻 Skilled and exploring in  
@@ -30,6 +32,8 @@
  <img title="Alteryx Foundation Certified" alt="Alteryx Foundation Certified" tabindex="0" id="display" src="https://community.alteryx.com/html/@B99A4A585FDC60E7FB7345C0CD250730/badge_icons/Certification_AlteryxFoundation.png" width="115" height="115">
   <img src="https://images.credly.com/images/5b32fd03-3768-4a68-a825-0a79a510b3e0/blob" alt="data.world Foundations" class="EarnedBadgeCardstyles__ImageContainer-fredly__sc-gsqjwh-0 dDMlBy" width="115" height="115">
    <img src= "https://images.credly.com/size/110x110/images/3db87885-fc38-45ae-875e-fd40443b0044/image.png" width="115" height="115" alt="data essential">
+  "<img src="https://images.credly.com/images/e83029f3-3d9c-490b-b277-bd4f578f85ed/blob" alt="Alation Data Analyst Advocate"width="115" height="115">
+
 </a>
 
 <a href="https://www.credly.com/users/y-muhammed-nizam" target="_blank">
@@ -50,7 +54,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/the._.introvertboy?igsh=MXN1eHdrYWQ0dHhIDa==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/y-muhammed-nizam-219647318) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/u/NIZAM531/s/V7BBRM4FzT) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammednizam.offical@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/the._.introvertboy?igsh=MXN1eHdrYWQ0dHhIDa==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/y-muhammed-nizam-analyst) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/u/NIZAM531/s/V7BBRM4FzT) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammednizam.offical@gmail.com) 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
