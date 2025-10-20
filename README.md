@@ -14,6 +14,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" width="80" height="80" alt="Ms Excel logo">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Microsoft_PowerPoint_2013-2019_logo.svg" width="80" height="80" alt="Ms powerpoint">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Microsoft_Word_2013-2019_logo.svg" width="80" height="80" alt="Ms Word">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png" width =80 height="120" alt="figma">
  <img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Canva_Logo.svg" width="200" height="120" alt="Canva">
 
 </div> 
