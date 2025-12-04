@@ -32,7 +32,9 @@
  <img title="Alteryx Foundation Certified" alt="Alteryx Foundation Certified" tabindex="0" id="display" src="https://community.alteryx.com/html/@B99A4A585FDC60E7FB7345C0CD250730/badge_icons/Certification_AlteryxFoundation.png" width="115" height="115">
   <img src="https://images.credly.com/images/5b32fd03-3768-4a68-a825-0a79a510b3e0/blob" alt="data.world Foundations" class="EarnedBadgeCardstyles__ImageContainer-fredly__sc-gsqjwh-0 dDMlBy" width="115" height="115">
    <img src= "https://images.credly.com/size/110x110/images/3db87885-fc38-45ae-875e-fd40443b0044/image.png" width="115" height="115" alt="data essential">
-  "<img src="https://images.credly.com/images/e83029f3-3d9c-490b-b277-bd4f578f85ed/blob" alt="Alation Data Analyst Advocate"width="115" height="115">
+  <img src="https://images.credly.com/images/e83029f3-3d9c-490b-b277-bd4f578f85ed/blob" alt="Alation Data Analyst Advocate"width="115" height="115">
+    <img src="https://images.credly.com/size/64x64/images/85c77b65-6b39-4f8e-9c83-14cf38d62cfb/converted20251204-31-ghulel.png"width="115" height="115">
+
 
 </a>
 
