@@ -27,14 +27,17 @@
 ## 🏅 Certifications & Badges
 
 <a href="https://www.credly.com/users/y-muhammed-nizam" target="_blank">
-<img src="https://images.credly.com/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png" alt="Data Fundamentals" class="EarnedBadgeCardstyles__ImageContainer-fredly__sc-gsqjwh-0 dDMlBy"width="110" height="110"></a>
+  <img title="Data Fundamentals" alt="Data Fundamentals Certified" tabindex="0" id="display"  
+<img src="https://images.credly.com/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png" alt="Data Fundamentals" class="EarnedBadgeCardstyles__ImageContainer-fredly__sc-gsqjwh-0 dDMlBy"width="110" height="110">
+</a>
  <a href="https://community.alteryx.com/t5/user/viewprofilepage/user-id/776095 target="_blank">
  <img title="Alteryx Foundation Certified" alt="Alteryx Foundation Certified" tabindex="0" id="display" src="https://community.alteryx.com/html/@B99A4A585FDC60E7FB7345C0CD250730/badge_icons/Certification_AlteryxFoundation.png" width="115" height="115">
   <img src="https://images.credly.com/images/5b32fd03-3768-4a68-a825-0a79a510b3e0/blob" alt="data.world Foundations" class="EarnedBadgeCardstyles__ImageContainer-fredly__sc-gsqjwh-0 dDMlBy" width="115" height="115">
    <img src= "https://images.credly.com/size/110x110/images/3db87885-fc38-45ae-875e-fd40443b0044/image.png" width="115" height="115" alt="data essential">
   <img src="https://images.credly.com/images/e83029f3-3d9c-490b-b277-bd4f578f85ed/blob" alt="Alation Data Analyst Advocate"width="115" height="115">
     <img src="https://images.credly.com/size/64x64/images/85c77b65-6b39-4f8e-9c83-14cf38d62cfb/converted20251204-31-ghulel.png"width="115" height="115">
-
+        <img src="https://images.credly.com/size/64x64/images/c49d0485-1cbc-40be-9e4b-d2db96246fe5/converted20251204-31-eppo3.png"width="115" height="115">
+<img src="https://images.credly.com/size/64x64/images/637927b4-866e-401f-861f-2e799880694d/converted20251204-32-ecvkm2.png"width="115" height="115">
 
 </a>
 
